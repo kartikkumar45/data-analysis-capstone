@@ -1,0 +1,19 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Generated analysis outputs
+output/
+*.png
+*.pdf
+
+# Local data files not included in this repository
+data/
+breast_cancer_data.csv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
